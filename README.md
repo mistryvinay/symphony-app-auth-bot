@@ -1,0 +1,1 @@
+# symphony-ext-app-auth

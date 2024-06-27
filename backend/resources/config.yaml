@@ -1,0 +1,11 @@
+host: develop2.symphony.com
+
+bot:
+  username: devcertbot1098
+  privateKey:
+    path: rsa/privatekey-bot.pem
+
+app:
+  appId: localhost-4000
+  privateKey:
+    path: rsa/privatekey-app.pem
